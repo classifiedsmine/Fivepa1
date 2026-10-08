@@ -1,0 +1,1977 @@
+{
+  "users": [
+    {
+      "id": "usr-admin",
+      "email": "admin@worksphere.io",
+      "username": "alexvance",
+      "name": "Alex Vance (Super Admin)",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "title": "WorkSphere Platform Administrator & Arbiter",
+      "bio": "Platform super-administrator managing escrow settlements, dispute resolutions, and marketplace security.",
+      "country": "United States",
+      "hourly_rate": 150,
+      "rating": 5,
+      "review_count": 48,
+      "total_earned_cents": 8900000,
+      "total_spent_cents": 4520000,
+      "active_mode": "ADMIN",
+      "role": "SUPER_ADMIN",
+      "status": "ACTIVE",
+      "verification_status": "VERIFIED",
+      "created_at": "2026-10-07T19:16:04.580Z",
+      "updated_at": "2026-10-07T19:16:04.580Z"
+    },
+    {
+      "id": "usr-1",
+      "email": "elena@example.com",
+      "username": "elenarostova",
+      "name": "Elena Rostova",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150&auto=format&fit=crop&q=80",
+      "title": "Senior Full-Stack Architect & Cloud Run Specialist",
+      "bio": "10+ years engineering high-throughput distributed systems, full-stack React/Node.js, and Google Cloud Run containerized workloads. Top-rated Plus freelancer with 100% job success score.",
+      "country": "Germany",
+      "hourly_rate": 85,
+      "rating": 4.98,
+      "review_count": 64,
+      "total_earned_cents": 7420000,
+      "total_spent_cents": 1250000,
+      "active_mode": "FREELANCER",
+      "role": "USER",
+      "status": "ACTIVE",
+      "verification_status": "VERIFIED",
+      "created_at": "2026-10-07T19:16:04.585Z",
+      "updated_at": "2026-10-07T19:16:04.585Z"
+    },
+    {
+      "id": "usr-2",
+      "email": "david@innovatecorp.com",
+      "username": "davidchen",
+      "name": "David Chen",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "title": "VP of Engineering @ InnovateTech (Hiring Client)",
+      "bio": "Building enterprise AI products and cloud infrastructure. Frequently hiring top engineering talent for frontend, backend, and machine learning contracts.",
+      "country": "United States",
+      "hourly_rate": 120,
+      "rating": 4.95,
+      "review_count": 32,
+      "total_earned_cents": 1520000,
+      "total_spent_cents": 8640000,
+      "active_mode": "CLIENT",
+      "role": "USER",
+      "status": "ACTIVE",
+      "verification_status": "VERIFIED",
+      "created_at": "2026-10-07T19:16:04.586Z",
+      "updated_at": "2026-10-07T19:16:04.586Z"
+    },
+    {
+      "id": "usr-3",
+      "email": "sarah@designcraft.studio",
+      "username": "sarahdesigns",
+      "name": "Sarah Jenkins",
+      "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150&auto=format&fit=crop&q=80",
+      "title": "Principal UI/UX & Design Systems Architect",
+      "bio": "Specializing in clean, domain-native SaaS dashboards, zero-pill aesthetic design, and scalable Figma component libraries. Former Design Lead at Fintech Unicorn.",
+      "country": "United Kingdom",
+      "hourly_rate": 95,
+      "rating": 5,
+      "review_count": 52,
+      "total_earned_cents": 6150000,
+      "total_spent_cents": 820000,
+      "active_mode": "FREELANCER",
+      "role": "USER",
+      "status": "ACTIVE",
+      "verification_status": "VERIFIED",
+      "created_at": "2026-10-07T19:16:04.586Z",
+      "updated_at": "2026-10-07T19:16:04.586Z"
+    },
+    {
+      "id": "usr-4",
+      "email": "aarav@neurotech.in",
+      "username": "aaravpatel_ai",
+      "name": "Aarav Patel",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&auto=format&fit=crop&q=80",
+      "title": "AI/ML Engineer & RAG Pipeline Specialist",
+      "bio": "Building enterprise LLM systems, multimodal Gemini pipelines, and scalable vector retrieval engines. Fast response and clean production code.",
+      "country": "India",
+      "hourly_rate": 75,
+      "rating": 4.92,
+      "review_count": 41,
+      "total_earned_cents": 4280000,
+      "total_spent_cents": 450000,
+      "active_mode": "FREELANCER",
+      "role": "USER",
+      "status": "ACTIVE",
+      "verification_status": "VERIFIED",
+      "created_at": "2026-10-07T19:16:04.586Z",
+      "updated_at": "2026-10-07T19:16:04.586Z"
+    },
+    {
+      "id": "usr-5",
+      "email": "marcus@growthlab.io",
+      "username": "marcusbrody",
+      "name": "Marcus Brody",
+      "avatar": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=150&auto=format&fit=crop&q=80",
+      "title": "Growth Architect & Technical SEO Consultant",
+      "bio": "Data-driven growth strategist, Core Web Vitals optimization expert, and technical SEO auditor for high-scale e-commerce and marketplaces.",
+      "country": "Canada",
+      "hourly_rate": 70,
+      "rating": 4.89,
+      "review_count": 28,
+      "total_earned_cents": 2980000,
+      "total_spent_cents": 910000,
+      "active_mode": "FREELANCER",
+      "role": "USER",
+      "status": "ACTIVE",
+      "verification_status": "VERIFIED",
+      "created_at": "2026-10-07T19:16:04.586Z",
+      "updated_at": "2026-10-07T19:16:04.586Z"
+    }
+  ],
+  "user_skills": [
+    {
+      "user_id": "usr-admin",
+      "skill": "Platform Governance"
+    },
+    {
+      "user_id": "usr-admin",
+      "skill": "Escrow Arbitration"
+    },
+    {
+      "user_id": "usr-admin",
+      "skill": "Financial Auditing"
+    },
+    {
+      "user_id": "usr-1",
+      "skill": "React"
+    },
+    {
+      "user_id": "usr-1",
+      "skill": "TypeScript"
+    },
+    {
+      "user_id": "usr-1",
+      "skill": "Node.js"
+    },
+    {
+      "user_id": "usr-1",
+      "skill": "Google Cloud Run"
+    },
+    {
+      "user_id": "usr-1",
+      "skill": "PostgreSQL"
+    },
+    {
+      "user_id": "usr-1",
+      "skill": "Docker"
+    },
+    {
+      "user_id": "usr-1",
+      "skill": "Tailwind CSS"
+    },
+    {
+      "user_id": "usr-1",
+      "skill": "Next.js"
+    },
+    {
+      "user_id": "usr-2",
+      "skill": "Product Strategy"
+    },
+    {
+      "user_id": "usr-2",
+      "skill": "Cloud Infrastructure"
+    },
+    {
+      "user_id": "usr-2",
+      "skill": "Team Leadership"
+    },
+    {
+      "user_id": "usr-3",
+      "skill": "Figma"
+    },
+    {
+      "user_id": "usr-3",
+      "skill": "UI/UX"
+    },
+    {
+      "user_id": "usr-3",
+      "skill": "Design Systems"
+    },
+    {
+      "user_id": "usr-3",
+      "skill": "Prototyping"
+    },
+    {
+      "user_id": "usr-3",
+      "skill": "Visual Design"
+    },
+    {
+      "user_id": "usr-3",
+      "skill": "Wireframing"
+    },
+    {
+      "user_id": "usr-3",
+      "skill": "User Research"
+    },
+    {
+      "user_id": "usr-4",
+      "skill": "Python"
+    },
+    {
+      "user_id": "usr-4",
+      "skill": "Gemini API"
+    },
+    {
+      "user_id": "usr-4",
+      "skill": "LangChain"
+    },
+    {
+      "user_id": "usr-4",
+      "skill": "FastAPI"
+    },
+    {
+      "user_id": "usr-4",
+      "skill": "PyTorch"
+    },
+    {
+      "user_id": "usr-4",
+      "skill": "Vector Databases"
+    },
+    {
+      "user_id": "usr-4",
+      "skill": "Docker"
+    },
+    {
+      "user_id": "usr-5",
+      "skill": "SEO Audit"
+    },
+    {
+      "user_id": "usr-5",
+      "skill": "Core Web Vitals"
+    },
+    {
+      "user_id": "usr-5",
+      "skill": "Conversion Rate Optimization"
+    },
+    {
+      "user_id": "usr-5",
+      "skill": "Google Analytics"
+    },
+    {
+      "user_id": "usr-5",
+      "skill": "Technical Writing"
+    }
+  ],
+  "wallets": [
+    {
+      "id": "wal-usr-admin",
+      "user_id": "usr-admin",
+      "currency": "USD",
+      "available_cents": 1485000,
+      "escrow_cents": 0,
+      "pending_withdrawal_cents": 0,
+      "created_at": "2026-10-07T19:16:04.586Z",
+      "updated_at": "2026-10-07T19:16:04.586Z"
+    },
+    {
+      "id": "wal-usr-1",
+      "user_id": "usr-1",
+      "currency": "USD",
+      "available_cents": 349000,
+      "escrow_cents": 0,
+      "pending_withdrawal_cents": 0,
+      "created_at": "2026-10-07T19:16:04.588Z",
+      "updated_at": "2026-10-07T19:32:18.628Z"
+    },
+    {
+      "id": "wal-usr-2",
+      "user_id": "usr-2",
+      "currency": "USD",
+      "available_cents": 450000,
+      "escrow_cents": 0,
+      "pending_withdrawal_cents": 0,
+      "created_at": "2026-10-07T19:16:04.588Z",
+      "updated_at": "2026-10-07T19:16:04.588Z"
+    },
+    {
+      "id": "wal-usr-3",
+      "user_id": "usr-3",
+      "currency": "USD",
+      "available_cents": 195000,
+      "escrow_cents": 0,
+      "pending_withdrawal_cents": 0,
+      "created_at": "2026-10-07T19:16:04.588Z",
+      "updated_at": "2026-10-07T19:16:04.588Z"
+    },
+    {
+      "id": "wal-usr-4",
+      "user_id": "usr-4",
+      "currency": "USD",
+      "available_cents": 210000,
+      "escrow_cents": 0,
+      "pending_withdrawal_cents": 0,
+      "created_at": "2026-10-07T19:16:04.588Z",
+      "updated_at": "2026-10-07T19:16:04.588Z"
+    },
+    {
+      "id": "wal-usr-5",
+      "user_id": "usr-5",
+      "currency": "USD",
+      "available_cents": 0,
+      "escrow_cents": 0,
+      "pending_withdrawal_cents": 0,
+      "created_at": "2026-10-07T19:16:04.588Z",
+      "updated_at": "2026-10-07T19:16:04.588Z"
+    },
+    {
+      "id": "wal_test_usr_wdr",
+      "user_id": "test_usr_wdr",
+      "currency": "USD",
+      "available_cents": 30000,
+      "escrow_cents": 0,
+      "pending_withdrawal_cents": 280000,
+      "created_at": "2026-10-07T19:16:29.949Z",
+      "updated_at": "2026-10-07T19:32:18.610Z"
+    },
+    {
+      "id": "wal_usr-admin-system",
+      "user_id": "usr-admin-system",
+      "currency": "USD",
+      "available_cents": 0,
+      "escrow_cents": 0,
+      "pending_withdrawal_cents": 0,
+      "created_at": "2026-10-07T19:16:29.972Z",
+      "updated_at": "2026-10-07T19:16:29.972Z"
+    },
+    {
+      "id": "wal_test_overdraft",
+      "user_id": "test_overdraft",
+      "currency": "USD",
+      "available_cents": 1000,
+      "escrow_cents": 0,
+      "pending_withdrawal_cents": 0,
+      "created_at": "2026-10-07T19:28:47.755Z",
+      "updated_at": "2026-10-07T19:28:47.755Z"
+    },
+    {
+      "id": "wal_test_concurrency",
+      "user_id": "test_concurrency",
+      "currency": "USD",
+      "available_cents": 4000,
+      "escrow_cents": 0,
+      "pending_withdrawal_cents": 18000,
+      "created_at": "2026-10-07T19:28:47.760Z",
+      "updated_at": "2026-10-07T19:29:49.215Z"
+    },
+    {
+      "id": "wal_test_rollback",
+      "user_id": "test_rollback",
+      "currency": "USD",
+      "available_cents": 5000,
+      "escrow_cents": 0,
+      "pending_withdrawal_cents": 0,
+      "created_at": "2026-10-07T19:28:47.777Z",
+      "updated_at": "2026-10-07T19:28:47.777Z"
+    },
+    {
+      "id": "wal_test_idempotency",
+      "user_id": "test_idempotency",
+      "currency": "USD",
+      "available_cents": 7000,
+      "escrow_cents": 0,
+      "pending_withdrawal_cents": 6000,
+      "created_at": "2026-10-07T19:28:47.781Z",
+      "updated_at": "2026-10-07T19:29:49.233Z"
+    }
+  ],
+  "ledger_entries": [
+    {
+      "id": "led_1791400589972_d_tam6",
+      "idempotency_key": "wh_wh_test_evt_1791400589970_DEBIT",
+      "wallet_id": "wal_usr-admin-system",
+      "user_id": "usr-admin-system",
+      "type": "PAYMENT_DEPOSIT",
+      "entry_type": "DEBIT",
+      "amount_cents": 5000,
+      "currency": "USD",
+      "description": "DEBIT: Payment Deposit via RAZORPAY (payment.captured)",
+      "reference_type": "PAYMENT_DEPOSIT",
+      "reference_id": "wh_test_evt_1791400589970",
+      "created_at": "2026-10-07T19:16:29.972Z"
+    },
+    {
+      "id": "led_1791400589972_c_2ms4",
+      "idempotency_key": "wh_wh_test_evt_1791400589970_CREDIT",
+      "wallet_id": "wal-usr-1",
+      "user_id": "usr-1",
+      "type": "PAYMENT_DEPOSIT",
+      "entry_type": "CREDIT",
+      "amount_cents": 5000,
+      "currency": "USD",
+      "description": "CREDIT: Payment Deposit via RAZORPAY (payment.captured)",
+      "reference_type": "PAYMENT_DEPOSIT",
+      "reference_id": "wh_test_evt_1791400589970",
+      "created_at": "2026-10-07T19:16:29.972Z"
+    },
+    {
+      "id": "led_1791400748873_d_4kpo",
+      "idempotency_key": "wdr_res_wdr_1791400748868_hk6v_DEBIT",
+      "wallet_id": "wal_test_usr_wdr",
+      "user_id": "test_usr_wdr",
+      "type": "WITHDRAWAL_RESERVATION",
+      "entry_type": "DEBIT",
+      "amount_cents": 70000,
+      "currency": "USD",
+      "description": "DEBIT: Withdrawal Reservation ($700.00 via Bank Wire)",
+      "reference_type": "WITHDRAWAL_RESERVATION",
+      "reference_id": "wdr_1791400748868_hk6v",
+      "created_at": "2026-10-07T19:19:08.873Z"
+    },
+    {
+      "id": "led_1791400748873_c_mlot",
+      "idempotency_key": "wdr_res_wdr_1791400748868_hk6v_CREDIT",
+      "wallet_id": "wal_usr-admin-system",
+      "user_id": "usr-admin-system",
+      "type": "WITHDRAWAL_RESERVATION",
+      "entry_type": "CREDIT",
+      "amount_cents": 70000,
+      "currency": "USD",
+      "description": "CREDIT: Withdrawal Reservation ($700.00 via Bank Wire)",
+      "reference_type": "WITHDRAWAL_RESERVATION",
+      "reference_id": "wdr_1791400748868_hk6v",
+      "created_at": "2026-10-07T19:19:08.873Z"
+    },
+    {
+      "id": "led_1791400748877_d_ieei",
+      "idempotency_key": "wdr_res_wdr_1791400748877_ot50_DEBIT",
+      "wallet_id": "wal_test_usr_wdr",
+      "user_id": "test_usr_wdr",
+      "type": "WITHDRAWAL_RESERVATION",
+      "entry_type": "DEBIT",
+      "amount_cents": 70000,
+      "currency": "USD",
+      "description": "DEBIT: Withdrawal Reservation ($700.00 via Bank Wire)",
+      "reference_type": "WITHDRAWAL_RESERVATION",
+      "reference_id": "wdr_1791400748877_ot50",
+      "created_at": "2026-10-07T19:19:08.877Z"
+    },
+    {
+      "id": "led_1791400748877_c_onub",
+      "idempotency_key": "wdr_res_wdr_1791400748877_ot50_CREDIT",
+      "wallet_id": "wal_usr-admin-system",
+      "user_id": "usr-admin-system",
+      "type": "WITHDRAWAL_RESERVATION",
+      "entry_type": "CREDIT",
+      "amount_cents": 70000,
+      "currency": "USD",
+      "description": "CREDIT: Withdrawal Reservation ($700.00 via Bank Wire)",
+      "reference_type": "WITHDRAWAL_RESERVATION",
+      "reference_id": "wdr_1791400748877_ot50",
+      "created_at": "2026-10-07T19:19:08.877Z"
+    },
+    {
+      "id": "led_1791400748879_d_kksq",
+      "idempotency_key": "wh_wh_test_evt_1791400748877_DEBIT",
+      "wallet_id": "wal_usr-admin-system",
+      "user_id": "usr-admin-system",
+      "type": "PAYMENT_DEPOSIT",
+      "entry_type": "DEBIT",
+      "amount_cents": 5000,
+      "currency": "USD",
+      "description": "DEBIT: Payment Deposit via RAZORPAY (payment.captured)",
+      "reference_type": "PAYMENT_DEPOSIT",
+      "reference_id": "wh_test_evt_1791400748877",
+      "created_at": "2026-10-07T19:19:08.879Z"
+    },
+    {
+      "id": "led_1791400748879_c_71qa",
+      "idempotency_key": "wh_wh_test_evt_1791400748877_CREDIT",
+      "wallet_id": "wal-usr-1",
+      "user_id": "usr-1",
+      "type": "PAYMENT_DEPOSIT",
+      "entry_type": "CREDIT",
+      "amount_cents": 5000,
+      "currency": "USD",
+      "description": "CREDIT: Payment Deposit via RAZORPAY (payment.captured)",
+      "reference_type": "PAYMENT_DEPOSIT",
+      "reference_id": "wh_test_evt_1791400748877",
+      "created_at": "2026-10-07T19:19:08.879Z"
+    },
+    {
+      "id": "led_1791400785505_d_0zs9",
+      "idempotency_key": "wh_wh_test_evt_1791400785501_DEBIT",
+      "wallet_id": "wal_usr-admin-system",
+      "user_id": "usr-admin-system",
+      "type": "PAYMENT_DEPOSIT",
+      "entry_type": "DEBIT",
+      "amount_cents": 5000,
+      "currency": "USD",
+      "description": "DEBIT: Payment Deposit via RAZORPAY (payment.captured)",
+      "reference_type": "PAYMENT_DEPOSIT",
+      "reference_id": "wh_test_evt_1791400785501",
+      "created_at": "2026-10-07T19:19:45.505Z"
+    },
+    {
+      "id": "led_1791400785505_c_d39e",
+      "idempotency_key": "wh_wh_test_evt_1791400785501_CREDIT",
+      "wallet_id": "wal-usr-1",
+      "user_id": "usr-1",
+      "type": "PAYMENT_DEPOSIT",
+      "entry_type": "CREDIT",
+      "amount_cents": 5000,
+      "currency": "USD",
+      "description": "CREDIT: Payment Deposit via RAZORPAY (payment.captured)",
+      "reference_type": "PAYMENT_DEPOSIT",
+      "reference_id": "wh_test_evt_1791400785501",
+      "created_at": "2026-10-07T19:19:45.505Z"
+    },
+    {
+      "id": "led_1791401327775_d_z8sy",
+      "idempotency_key": "wdr_res_wdr_1791401327775_f1rp_DEBIT",
+      "wallet_id": "wal_test_concurrency",
+      "user_id": "test_concurrency",
+      "type": "WITHDRAWAL_RESERVATION",
+      "entry_type": "DEBIT",
+      "amount_cents": 6000,
+      "currency": "USD",
+      "description": "DEBIT: Withdrawal Reservation ($60.00 via TEST)",
+      "reference_type": "WITHDRAWAL_RESERVATION",
+      "reference_id": "wdr_1791401327775_f1rp",
+      "created_at": "2026-10-07T19:28:47.775Z"
+    },
+    {
+      "id": "led_1791401327775_c_ofpi",
+      "idempotency_key": "wdr_res_wdr_1791401327775_f1rp_CREDIT",
+      "wallet_id": "wal_usr-admin-system",
+      "user_id": "usr-admin-system",
+      "type": "WITHDRAWAL_RESERVATION",
+      "entry_type": "CREDIT",
+      "amount_cents": 6000,
+      "currency": "USD",
+      "description": "CREDIT: Withdrawal Reservation ($60.00 via TEST)",
+      "reference_type": "WITHDRAWAL_RESERVATION",
+      "reference_id": "wdr_1791401327775_f1rp",
+      "created_at": "2026-10-07T19:28:47.775Z"
+    },
+    {
+      "id": "led_1791401327781_d_7u2y",
+      "idempotency_key": "wdr_res_wdr_1791401327781_rfxc_DEBIT",
+      "wallet_id": "wal_test_idempotency",
+      "user_id": "test_idempotency",
+      "type": "WITHDRAWAL_RESERVATION",
+      "entry_type": "DEBIT",
+      "amount_cents": 3000,
+      "currency": "USD",
+      "description": "DEBIT: Withdrawal Reservation ($30.00 via TEST)",
+      "reference_type": "WITHDRAWAL_RESERVATION",
+      "reference_id": "wdr_1791401327781_rfxc",
+      "created_at": "2026-10-07T19:28:47.781Z"
+    },
+    {
+      "id": "led_1791401327781_c_ljbs",
+      "idempotency_key": "wdr_res_wdr_1791401327781_rfxc_CREDIT",
+      "wallet_id": "wal_usr-admin-system",
+      "user_id": "usr-admin-system",
+      "type": "WITHDRAWAL_RESERVATION",
+      "entry_type": "CREDIT",
+      "amount_cents": 3000,
+      "currency": "USD",
+      "description": "CREDIT: Withdrawal Reservation ($30.00 via TEST)",
+      "reference_type": "WITHDRAWAL_RESERVATION",
+      "reference_id": "wdr_1791401327781_rfxc",
+      "created_at": "2026-10-07T19:28:47.781Z"
+    },
+    {
+      "id": "led_1791401377985_d_xyq0",
+      "idempotency_key": "wdr_res_wdr_1791401377981_snit_DEBIT",
+      "wallet_id": "wal_test_concurrency",
+      "user_id": "test_concurrency",
+      "type": "WITHDRAWAL_RESERVATION",
+      "entry_type": "DEBIT",
+      "amount_cents": 6000,
+      "currency": "USD",
+      "description": "DEBIT: Withdrawal Reservation ($60.00 via TEST)",
+      "reference_type": "WITHDRAWAL_RESERVATION",
+      "reference_id": "wdr_1791401377981_snit",
+      "created_at": "2026-10-07T19:29:37.985Z"
+    },
+    {
+      "id": "led_1791401377985_c_hfmb",
+      "idempotency_key": "wdr_res_wdr_1791401377981_snit_CREDIT",
+      "wallet_id": "wal_usr-admin-system",
+      "user_id": "usr-admin-system",
+      "type": "WITHDRAWAL_RESERVATION",
+      "entry_type": "CREDIT",
+      "amount_cents": 6000,
+      "currency": "USD",
+      "description": "CREDIT: Withdrawal Reservation ($60.00 via TEST)",
+      "reference_type": "WITHDRAWAL_RESERVATION",
+      "reference_id": "wdr_1791401377981_snit",
+      "created_at": "2026-10-07T19:29:37.985Z"
+    },
+    {
+      "id": "led_1791401389220_d_brjs",
+      "idempotency_key": "wdr_res_wdr_1791401389216_588t_DEBIT",
+      "wallet_id": "wal_test_concurrency",
+      "user_id": "test_concurrency",
+      "type": "WITHDRAWAL_RESERVATION",
+      "entry_type": "DEBIT",
+      "amount_cents": 6000,
+      "currency": "USD",
+      "description": "DEBIT: Withdrawal Reservation ($60.00 via TEST)",
+      "reference_type": "WITHDRAWAL_RESERVATION",
+      "reference_id": "wdr_1791401389216_588t",
+      "created_at": "2026-10-07T19:29:49.220Z"
+    },
+    {
+      "id": "led_1791401389220_c_9nua",
+      "idempotency_key": "wdr_res_wdr_1791401389216_588t_CREDIT",
+      "wallet_id": "wal_usr-admin-system",
+      "user_id": "usr-admin-system",
+      "type": "WITHDRAWAL_RESERVATION",
+      "entry_type": "CREDIT",
+      "amount_cents": 6000,
+      "currency": "USD",
+      "description": "CREDIT: Withdrawal Reservation ($60.00 via TEST)",
+      "reference_type": "WITHDRAWAL_RESERVATION",
+      "reference_id": "wdr_1791401389216_588t",
+      "created_at": "2026-10-07T19:29:49.220Z"
+    },
+    {
+      "id": "led_1791401389233_d_grqe",
+      "idempotency_key": "wdr_res_wdr_1791401389233_61b1_DEBIT",
+      "wallet_id": "wal_test_idempotency",
+      "user_id": "test_idempotency",
+      "type": "WITHDRAWAL_RESERVATION",
+      "entry_type": "DEBIT",
+      "amount_cents": 3000,
+      "currency": "USD",
+      "description": "DEBIT: Withdrawal Reservation ($30.00 via TEST)",
+      "reference_type": "WITHDRAWAL_RESERVATION",
+      "reference_id": "wdr_1791401389233_61b1",
+      "created_at": "2026-10-07T19:29:49.233Z"
+    },
+    {
+      "id": "led_1791401389233_c_vxsd",
+      "idempotency_key": "wdr_res_wdr_1791401389233_61b1_CREDIT",
+      "wallet_id": "wal_usr-admin-system",
+      "user_id": "usr-admin-system",
+      "type": "WITHDRAWAL_RESERVATION",
+      "entry_type": "CREDIT",
+      "amount_cents": 3000,
+      "currency": "USD",
+      "description": "CREDIT: Withdrawal Reservation ($30.00 via TEST)",
+      "reference_type": "WITHDRAWAL_RESERVATION",
+      "reference_id": "wdr_1791401389233_61b1",
+      "created_at": "2026-10-07T19:29:49.233Z"
+    },
+    {
+      "id": "led_1791401489477_d_manh",
+      "idempotency_key": "wdr_res_wdr_1791401489473_ozbw_DEBIT",
+      "wallet_id": "wal_test_usr_wdr",
+      "user_id": "test_usr_wdr",
+      "type": "WITHDRAWAL_RESERVATION",
+      "entry_type": "DEBIT",
+      "amount_cents": 70000,
+      "currency": "USD",
+      "description": "DEBIT: Withdrawal Reservation ($700.00 via Bank Wire)",
+      "reference_type": "WITHDRAWAL_RESERVATION",
+      "reference_id": "wdr_1791401489473_ozbw",
+      "created_at": "2026-10-07T19:31:29.477Z"
+    },
+    {
+      "id": "led_1791401489477_c_9m7p",
+      "idempotency_key": "wdr_res_wdr_1791401489473_ozbw_CREDIT",
+      "wallet_id": "wal_usr-admin-system",
+      "user_id": "usr-admin-system",
+      "type": "WITHDRAWAL_RESERVATION",
+      "entry_type": "CREDIT",
+      "amount_cents": 70000,
+      "currency": "USD",
+      "description": "CREDIT: Withdrawal Reservation ($700.00 via Bank Wire)",
+      "reference_type": "WITHDRAWAL_RESERVATION",
+      "reference_id": "wdr_1791401489473_ozbw",
+      "created_at": "2026-10-07T19:31:29.477Z"
+    },
+    {
+      "id": "led_1791401489488_d_a0xq",
+      "idempotency_key": "wh_wh_test_evt_1791401489486_DEBIT",
+      "wallet_id": "wal_usr-admin-system",
+      "user_id": "usr-admin-system",
+      "type": "PAYMENT_DEPOSIT",
+      "entry_type": "DEBIT",
+      "amount_cents": 5000,
+      "currency": "USD",
+      "description": "DEBIT: Payment Deposit via RAZORPAY (payment.captured)",
+      "reference_type": "PAYMENT_DEPOSIT",
+      "reference_id": "wh_test_evt_1791401489486",
+      "created_at": "2026-10-07T19:31:29.487Z"
+    },
+    {
+      "id": "led_1791401489488_c_kfni",
+      "idempotency_key": "wh_wh_test_evt_1791401489486_CREDIT",
+      "wallet_id": "wal-usr-1",
+      "user_id": "usr-1",
+      "type": "PAYMENT_DEPOSIT",
+      "entry_type": "CREDIT",
+      "amount_cents": 5000,
+      "currency": "USD",
+      "description": "CREDIT: Payment Deposit via RAZORPAY (payment.captured)",
+      "reference_type": "PAYMENT_DEPOSIT",
+      "reference_id": "wh_test_evt_1791401489486",
+      "created_at": "2026-10-07T19:31:29.487Z"
+    },
+    {
+      "id": "led_1791401538616_d_o6yh",
+      "idempotency_key": "wdr_res_wdr_1791401538611_schj_DEBIT",
+      "wallet_id": "wal_test_usr_wdr",
+      "user_id": "test_usr_wdr",
+      "type": "WITHDRAWAL_RESERVATION",
+      "entry_type": "DEBIT",
+      "amount_cents": 70000,
+      "currency": "USD",
+      "description": "DEBIT: Withdrawal Reservation ($700.00 via Bank Wire)",
+      "reference_type": "WITHDRAWAL_RESERVATION",
+      "reference_id": "wdr_1791401538611_schj",
+      "created_at": "2026-10-07T19:32:18.616Z"
+    },
+    {
+      "id": "led_1791401538616_c_8wrv",
+      "idempotency_key": "wdr_res_wdr_1791401538611_schj_CREDIT",
+      "wallet_id": "wal_usr-admin-system",
+      "user_id": "usr-admin-system",
+      "type": "WITHDRAWAL_RESERVATION",
+      "entry_type": "CREDIT",
+      "amount_cents": 70000,
+      "currency": "USD",
+      "description": "CREDIT: Withdrawal Reservation ($700.00 via Bank Wire)",
+      "reference_type": "WITHDRAWAL_RESERVATION",
+      "reference_id": "wdr_1791401538611_schj",
+      "created_at": "2026-10-07T19:32:18.616Z"
+    },
+    {
+      "id": "led_1791401538628_d_d5fg",
+      "idempotency_key": "wh_wh_test_evt_1791401538626_DEBIT",
+      "wallet_id": "wal_usr-admin-system",
+      "user_id": "usr-admin-system",
+      "type": "PAYMENT_DEPOSIT",
+      "entry_type": "DEBIT",
+      "amount_cents": 5000,
+      "currency": "USD",
+      "description": "DEBIT: Payment Deposit via RAZORPAY (payment.captured)",
+      "reference_type": "PAYMENT_DEPOSIT",
+      "reference_id": "wh_test_evt_1791401538626",
+      "created_at": "2026-10-07T19:32:18.628Z"
+    },
+    {
+      "id": "led_1791401538628_c_amn9",
+      "idempotency_key": "wh_wh_test_evt_1791401538626_CREDIT",
+      "wallet_id": "wal-usr-1",
+      "user_id": "usr-1",
+      "type": "PAYMENT_DEPOSIT",
+      "entry_type": "CREDIT",
+      "amount_cents": 5000,
+      "currency": "USD",
+      "description": "CREDIT: Payment Deposit via RAZORPAY (payment.captured)",
+      "reference_type": "PAYMENT_DEPOSIT",
+      "reference_id": "wh_test_evt_1791401538626",
+      "created_at": "2026-10-07T19:32:18.628Z"
+    }
+  ],
+  "projects": [
+    {
+      "id": "prj-101",
+      "slug": "production-cloud-run-marketplace-engine",
+      "client_id": "usr-2",
+      "title": "Architect & Deploy High-Performance Freelance Marketplace on Google Cloud Run",
+      "description": "We need an experienced lead full-stack systems engineer to build and verify a production-grade freelance marketplace. Core requirements: 1) HTML-first rendering and sub-100ms TTFB for all public discovery pages with complete Schema.org JSON-LD; 2) Unified account architecture with one wallet/ledger; 3) 14-day escrow protection period; 4) Full administrator control panel with arbitration and audit logging.",
+      "category": "Development & IT",
+      "subcategory": "Full Stack Development",
+      "budget_cents": 450000,
+      "currency": "USD",
+      "pricing_model": "MILESTONE",
+      "experience_level": "EXPERT",
+      "duration": "3 to 6 months",
+      "proposals_count": 8,
+      "status": "IN_PROGRESS",
+      "created_at": "2026-09-28T10:00:00Z",
+      "updated_at": "2026-10-02T12:00:00Z"
+    },
+    {
+      "id": "prj-102",
+      "slug": "design-system-figma-enterprise-saas",
+      "client_id": "usr-2",
+      "title": "Enterprise Figma Design System & Modern UI Component Library",
+      "description": "Seeking a senior UI/UX designer to craft an ultra-clean, domain-native visual identity for our enterprise analytics console. Zero-pill discipline, crisp typography hierarchy, 60+ responsive components with tokenized variables, and complete interactive states.",
+      "category": "Design & Creative",
+      "subcategory": "UI/UX & Product Design",
+      "budget_cents": 280000,
+      "currency": "USD",
+      "pricing_model": "FIXED",
+      "experience_level": "EXPERT",
+      "duration": "1 to 2 months",
+      "proposals_count": 14,
+      "status": "PUBLISHED",
+      "created_at": "2026-10-04T15:30:00Z",
+      "updated_at": "2026-10-04T15:30:00Z"
+    },
+    {
+      "id": "prj-103",
+      "slug": "multimodal-rag-pipeline-gemini",
+      "client_id": "usr-5",
+      "title": "Implement Multimodal RAG Document Intelligence System with Gemini API",
+      "description": "Looking for an AI engineer to develop a hybrid search and citation retrieval pipeline capable of ingesting PDF technical blueprints, generating dense vector embeddings, and answering user queries with verbatim page citations.",
+      "category": "AI & Machine Learning",
+      "subcategory": "LLM Applications & RAG",
+      "budget_cents": 320000,
+      "currency": "USD",
+      "pricing_model": "MILESTONE",
+      "experience_level": "INTERMEDIATE",
+      "duration": "1 to 3 months",
+      "proposals_count": 6,
+      "status": "PUBLISHED",
+      "created_at": "2026-10-05T09:15:00Z",
+      "updated_at": "2026-10-05T09:15:00Z"
+    },
+    {
+      "id": "prj-104",
+      "slug": "technical-seo-core-web-vitals-speedup",
+      "client_id": "usr-2",
+      "title": "Core Web Vitals Optimization: 95+ Mobile Lighthouse Score",
+      "description": "Audit and refactor our Next.js/React marketplace frontend. Eliminate hydration bottlenecks, optimize LCP images, reduce TTFB to under 80ms, and configure edge caching rules.",
+      "category": "Sales & Marketing",
+      "subcategory": "Search Engine Optimization",
+      "budget_cents": 180000,
+      "currency": "USD",
+      "pricing_model": "FIXED",
+      "experience_level": "EXPERT",
+      "duration": "Less than 1 month",
+      "proposals_count": 9,
+      "status": "PUBLISHED",
+      "created_at": "2026-10-06T11:45:00Z",
+      "updated_at": "2026-10-06T11:45:00Z"
+    }
+  ],
+  "project_skills": [
+    {
+      "project_id": "prj-101",
+      "skill": "Google Cloud Run"
+    },
+    {
+      "project_id": "prj-101",
+      "skill": "React"
+    },
+    {
+      "project_id": "prj-101",
+      "skill": "TypeScript"
+    },
+    {
+      "project_id": "prj-101",
+      "skill": "Node.js"
+    },
+    {
+      "project_id": "prj-101",
+      "skill": "PostgreSQL"
+    },
+    {
+      "project_id": "prj-101",
+      "skill": "Docker"
+    },
+    {
+      "project_id": "prj-101",
+      "skill": "SEO Audit"
+    },
+    {
+      "project_id": "prj-102",
+      "skill": "Figma"
+    },
+    {
+      "project_id": "prj-102",
+      "skill": "UI/UX"
+    },
+    {
+      "project_id": "prj-102",
+      "skill": "Design Systems"
+    },
+    {
+      "project_id": "prj-102",
+      "skill": "Tailwind CSS"
+    },
+    {
+      "project_id": "prj-102",
+      "skill": "Prototyping"
+    },
+    {
+      "project_id": "prj-103",
+      "skill": "Gemini API"
+    },
+    {
+      "project_id": "prj-103",
+      "skill": "Python"
+    },
+    {
+      "project_id": "prj-103",
+      "skill": "Vector Databases"
+    },
+    {
+      "project_id": "prj-103",
+      "skill": "LangChain"
+    },
+    {
+      "project_id": "prj-103",
+      "skill": "FastAPI"
+    },
+    {
+      "project_id": "prj-104",
+      "skill": "Core Web Vitals"
+    },
+    {
+      "project_id": "prj-104",
+      "skill": "SEO Audit"
+    },
+    {
+      "project_id": "prj-104",
+      "skill": "Performance Optimization"
+    },
+    {
+      "project_id": "prj-104",
+      "skill": "React"
+    }
+  ],
+  "offers": [
+    {
+      "id": "ofr-201",
+      "slug": "full-stack-cloud-run-deployment-package",
+      "freelancer_id": "usr-1",
+      "title": "I will build and deploy a production-ready Web App on Google Cloud Run with Docker & CI/CD",
+      "description": "Get a scalable, containerized full-stack application architected according to Google Cloud best practices. Includes multi-stage Docker build, zero-downtime Cloud Run service provisioning, custom domain mapping, and automated GitHub Actions deployment pipeline.",
+      "category": "Development & IT",
+      "subcategory": "Cloud & DevOps (GCP/AWS)",
+      "starting_price_cents": 35000,
+      "currency": "USD",
+      "orders_in_queue": 3,
+      "rating": 4.98,
+      "review_count": 64,
+      "status": "ACTIVE",
+      "featured": 0,
+      "created_at": "2025-08-10T12:00:00Z",
+      "updated_at": "2026-10-07T19:16:04.591Z"
+    },
+    {
+      "id": "ofr-202",
+      "slug": "bespoke-saas-ui-ux-design-system",
+      "freelancer_id": "usr-3",
+      "title": "I will design a modern SaaS dashboard UI/UX and scalable Figma Design System",
+      "description": "Elevate your web product with clean typography hierarchy, restrained color palettes, high-contrast usability, and 100% vector components. Designed for enterprise SaaS, analytics platforms, and marketplaces.",
+      "category": "Design & Creative",
+      "subcategory": "UI/UX & Product Design",
+      "starting_price_cents": 45000,
+      "currency": "USD",
+      "orders_in_queue": 2,
+      "rating": 5,
+      "review_count": 52,
+      "status": "ACTIVE",
+      "featured": 0,
+      "created_at": "2025-09-01T14:00:00Z",
+      "updated_at": "2026-10-07T19:16:04.595Z"
+    },
+    {
+      "id": "ofr-203",
+      "slug": "custom-rag-pipeline-gemini-integration",
+      "freelancer_id": "usr-4",
+      "title": "I will engineer a low-latency RAG AI pipeline with Gemini API and Vector DB",
+      "description": "Connect your knowledge base, PDF repository, or database to Gemini 2.5/Flash. Built with FastAPI, dense vector indexing, semantic search, and streaming responses with citation verification.",
+      "category": "AI & Machine Learning",
+      "subcategory": "LLM Applications & RAG",
+      "starting_price_cents": 30000,
+      "currency": "USD",
+      "orders_in_queue": 1,
+      "rating": 4.92,
+      "review_count": 41,
+      "status": "ACTIVE",
+      "featured": 0,
+      "created_at": "2025-09-15T16:00:00Z",
+      "updated_at": "2026-10-07T19:16:04.595Z"
+    },
+    {
+      "id": "ofr-video-1",
+      "slug": "viral-video-editing-and-commercial-post-production",
+      "freelancer_id": "usr-3",
+      "title": "I will create viral video edits, reels, and commercial motion graphics",
+      "description": "Professional video post-production in Premiere Pro and After Effects. Cinematic color grading, sound design, engaging captions, and dynamic transitions that hook viewers.",
+      "category": "Video & Animation",
+      "subcategory": "Video Editing & Post-Production",
+      "starting_price_cents": 6500,
+      "currency": "USD",
+      "orders_in_queue": 4,
+      "rating": 4.97,
+      "review_count": 94,
+      "status": "ACTIVE",
+      "featured": 0,
+      "created_at": "2025-08-10T12:00:00Z",
+      "updated_at": "2026-10-07T19:16:04.595Z"
+    },
+    {
+      "id": "ofr-music-1",
+      "slug": "commercial-studio-voice-over-and-narration",
+      "freelancer_id": "usr-1",
+      "title": "I will record a professional commercial voice over in a treated studio",
+      "description": "Crisp, broadcast-quality voice over recorded on Neumann U87 microphone in a treated sound booth. Perfect for TV commercials, explainers, audiobooks, and corporate promos.",
+      "category": "Music & Audio",
+      "subcategory": "Voice Over & Narration",
+      "starting_price_cents": 5000,
+      "currency": "USD",
+      "orders_in_queue": 2,
+      "rating": 4.99,
+      "review_count": 112,
+      "status": "ACTIVE",
+      "featured": 0,
+      "created_at": "2025-07-22T08:00:00Z",
+      "updated_at": "2026-10-07T19:16:04.595Z"
+    },
+    {
+      "id": "ofr-business-1",
+      "slug": "investor-ready-business-plan-and-financial-model",
+      "freelancer_id": "usr-2",
+      "title": "I will write an investor-ready business plan and 5-year financial model",
+      "description": "Comprehensive business plan tailored for angel investors, venture capitalists, and SBA loan approvals. Includes dynamic 5-year financial model with P&L, balance sheet, and cash flow.",
+      "category": "Business",
+      "subcategory": "Business Plans & Pitch Decks",
+      "starting_price_cents": 15000,
+      "currency": "USD",
+      "orders_in_queue": 3,
+      "rating": 4.95,
+      "review_count": 68,
+      "status": "ACTIVE",
+      "featured": 0,
+      "created_at": "2025-06-15T14:00:00Z",
+      "updated_at": "2026-10-07T19:16:04.595Z"
+    },
+    {
+      "id": "ofr-writing-1",
+      "slug": "high-converting-seo-technical-content-and-copywriting",
+      "freelancer_id": "usr-1",
+      "title": "I will write technical articles, API documentation, and SEO whitepapers",
+      "description": "Clear, accurate technical writing that developers respect and search engines rank on page one. Specialized in cloud architecture, TypeScript, APIs, and AI systems.",
+      "category": "Writing & Translation",
+      "subcategory": "Technical & Developer Writing",
+      "starting_price_cents": 12000,
+      "currency": "USD",
+      "orders_in_queue": 1,
+      "rating": 4.98,
+      "review_count": 76,
+      "status": "ACTIVE",
+      "featured": 0,
+      "created_at": "2025-05-18T10:00:00Z",
+      "updated_at": "2026-10-07T19:16:04.595Z"
+    },
+    {
+      "id": "ofr-wordpress-1",
+      "slug": "custom-wordpress-website-development-elementor-woocommerce",
+      "freelancer_id": "usr-1",
+      "title": "I will build a modern, high-speed WordPress website with WooCommerce",
+      "description": "Custom responsive WordPress development. Pixel-perfect implementation from Figma or scratch, WooCommerce payment integration, 95+ Core Web Vitals speed score, and secure hosting configuration.",
+      "category": "Development & IT",
+      "subcategory": "Full Stack Development",
+      "starting_price_cents": 15000,
+      "currency": "USD",
+      "orders_in_queue": 5,
+      "rating": 4.98,
+      "review_count": 148,
+      "status": "ACTIVE",
+      "featured": 0,
+      "created_at": "2025-04-10T09:00:00Z",
+      "updated_at": "2026-10-07T19:16:04.595Z"
+    }
+  ],
+  "offer_skills": [
+    {
+      "offer_id": "ofr-201",
+      "skill": "Google Cloud Run"
+    },
+    {
+      "offer_id": "ofr-201",
+      "skill": "Docker"
+    },
+    {
+      "offer_id": "ofr-201",
+      "skill": "Node.js"
+    },
+    {
+      "offer_id": "ofr-201",
+      "skill": "React"
+    },
+    {
+      "offer_id": "ofr-201",
+      "skill": "TypeScript"
+    },
+    {
+      "offer_id": "ofr-201",
+      "skill": "PostgreSQL"
+    },
+    {
+      "offer_id": "ofr-202",
+      "skill": "Figma"
+    },
+    {
+      "offer_id": "ofr-202",
+      "skill": "UI/UX"
+    },
+    {
+      "offer_id": "ofr-202",
+      "skill": "Design Systems"
+    },
+    {
+      "offer_id": "ofr-202",
+      "skill": "Tailwind CSS"
+    },
+    {
+      "offer_id": "ofr-202",
+      "skill": "Prototyping"
+    },
+    {
+      "offer_id": "ofr-203",
+      "skill": "Gemini API"
+    },
+    {
+      "offer_id": "ofr-203",
+      "skill": "Python"
+    },
+    {
+      "offer_id": "ofr-203",
+      "skill": "Vector Databases"
+    },
+    {
+      "offer_id": "ofr-203",
+      "skill": "FastAPI"
+    },
+    {
+      "offer_id": "ofr-203",
+      "skill": "LangChain"
+    },
+    {
+      "offer_id": "ofr-video-1",
+      "skill": "Premiere Pro"
+    },
+    {
+      "offer_id": "ofr-video-1",
+      "skill": "After Effects"
+    },
+    {
+      "offer_id": "ofr-video-1",
+      "skill": "Color Grading"
+    },
+    {
+      "offer_id": "ofr-video-1",
+      "skill": "Sound Design"
+    },
+    {
+      "offer_id": "ofr-video-1",
+      "skill": "Motion Graphics"
+    },
+    {
+      "offer_id": "ofr-music-1",
+      "skill": "Voice Over"
+    },
+    {
+      "offer_id": "ofr-music-1",
+      "skill": "Audio Mastering"
+    },
+    {
+      "offer_id": "ofr-music-1",
+      "skill": "Pro Tools"
+    },
+    {
+      "offer_id": "ofr-music-1",
+      "skill": "Commercial Narration"
+    },
+    {
+      "offer_id": "ofr-business-1",
+      "skill": "Business Plans"
+    },
+    {
+      "offer_id": "ofr-business-1",
+      "skill": "Financial Modeling"
+    },
+    {
+      "offer_id": "ofr-business-1",
+      "skill": "Market Analysis"
+    },
+    {
+      "offer_id": "ofr-business-1",
+      "skill": "Pitch Decks"
+    },
+    {
+      "offer_id": "ofr-writing-1",
+      "skill": "Technical Writing"
+    },
+    {
+      "offer_id": "ofr-writing-1",
+      "skill": "SEO Copywriting"
+    },
+    {
+      "offer_id": "ofr-writing-1",
+      "skill": "API Docs"
+    },
+    {
+      "offer_id": "ofr-writing-1",
+      "skill": "Whitepapers"
+    },
+    {
+      "offer_id": "ofr-wordpress-1",
+      "skill": "WordPress"
+    },
+    {
+      "offer_id": "ofr-wordpress-1",
+      "skill": "WooCommerce"
+    },
+    {
+      "offer_id": "ofr-wordpress-1",
+      "skill": "PHP"
+    },
+    {
+      "offer_id": "ofr-wordpress-1",
+      "skill": "CSS3"
+    },
+    {
+      "offer_id": "ofr-wordpress-1",
+      "skill": "Speed Optimization"
+    },
+    {
+      "offer_id": "ofr-wordpress-1",
+      "skill": "SEO Audit"
+    }
+  ],
+  "proposals": [],
+  "contracts": [
+    {
+      "id": "ctr-401",
+      "title": "Architect & Deploy High-Performance Freelance Marketplace on Google Cloud Run",
+      "project_id": "prj-101",
+      "proposal_id": "",
+      "client_id": "usr-2",
+      "freelancer_id": "usr-1",
+      "total_amount_cents": 450000,
+      "currency": "USD",
+      "escrow_amount_cents": 0,
+      "status": "DISPUTED",
+      "start_date": "2026-10-07T19:16:04.595Z",
+      "end_date": "",
+      "auto_released": 0,
+      "created_at": "2026-09-30T14:00:00Z",
+      "updated_at": "2026-10-07T19:32:18.635Z"
+    },
+    {
+      "id": "ctr-402",
+      "title": "Design System & UI Components for Analytics Dashboard",
+      "proposal_id": "",
+      "client_id": "usr-2",
+      "freelancer_id": "usr-3",
+      "total_amount_cents": 110000,
+      "currency": "USD",
+      "escrow_amount_cents": 0,
+      "status": "WORK_SUBMITTED",
+      "start_date": "2026-10-07T19:16:04.600Z",
+      "end_date": "",
+      "auto_released": 0,
+      "created_at": "2026-10-01T09:00:00Z",
+      "updated_at": "2026-10-06T15:00:00Z"
+    }
+  ],
+  "contract_milestones": [
+    {
+      "id": "mls-501",
+      "contract_id": "ctr-401",
+      "title": "Phase 1: Architecture, SSR Engine & SEO Pages",
+      "description": "Deliver full SSR rendering engine with sub-100ms TTFB, Schema.org JSON-LD, and zero-pill UI.",
+      "amount_cents": 150000,
+      "currency": "USD",
+      "due_date": "2026-10-15",
+      "status": "PROTECTION_PERIOD",
+      "created_at": "2026-10-07T19:16:04.598Z",
+      "updated_at": "2026-10-07T19:16:04.598Z"
+    },
+    {
+      "id": "mls-502",
+      "contract_id": "ctr-401",
+      "title": "Phase 2: Authoritative Ledger, Escrow & WorkStream",
+      "description": "Double-entry ledger records, 14-day protection countdown, and milestone deliverable review engine.",
+      "amount_cents": 150000,
+      "currency": "USD",
+      "due_date": "2026-10-25",
+      "status": "IN_PROGRESS",
+      "created_at": "2026-10-07T19:16:04.600Z",
+      "updated_at": "2026-10-07T19:16:04.600Z"
+    },
+    {
+      "id": "mls-503",
+      "contract_id": "ctr-401",
+      "title": "Phase 3: Unified Admin Console & Cloud Run Verification",
+      "description": "Full administrative controls, dispute settlement, audit logs, and Cloud Run Docker container.",
+      "amount_cents": 150000,
+      "currency": "USD",
+      "due_date": "2026-11-05",
+      "status": "FUNDED",
+      "created_at": "2026-10-07T19:16:04.600Z",
+      "updated_at": "2026-10-07T19:16:04.600Z"
+    },
+    {
+      "id": "mls-504",
+      "contract_id": "ctr-402",
+      "title": "Standard Package: 10 Responsive Screens + Tokens",
+      "description": "10 screens in Figma with Tailwind CSS variable tokens.",
+      "amount_cents": 110000,
+      "currency": "USD",
+      "due_date": "2026-10-11",
+      "status": "SUBMITTED",
+      "created_at": "2026-10-07T19:16:04.600Z",
+      "updated_at": "2026-10-07T19:16:04.600Z"
+    }
+  ],
+  "contract_deliverables": [],
+  "disputes": [
+    {
+      "id": "dsp_1791401538635_9kl7",
+      "contract_id": "ctr-401",
+      "disputed_by": "usr-1",
+      "reason": "Quality issue",
+      "disputed_amount_cents": 0,
+      "currency": "USD",
+      "status": "OPEN",
+      "created_at": "2026-10-07T19:32:18.635Z"
+    }
+  ],
+  "dispute_evidence": [],
+  "withdrawal_requests": [
+    {
+      "id": "wdr_1791400748868_hk6v",
+      "idempotency_key": "wdr_test_1_1791400748865",
+      "user_id": "test_usr_wdr",
+      "amount_cents": 70000,
+      "currency": "USD",
+      "payment_method": "Bank Wire",
+      "account_details": "ACCT_123",
+      "status": "PENDING",
+      "created_at": "2026-10-07T19:19:08.867Z"
+    },
+    {
+      "id": "wdr_1791400748877_ot50",
+      "idempotency_key": "wdr_test_2_1791400748865",
+      "user_id": "test_usr_wdr",
+      "amount_cents": 70000,
+      "currency": "USD",
+      "payment_method": "Bank Wire",
+      "account_details": "ACCT_123",
+      "status": "PENDING",
+      "created_at": "2026-10-07T19:19:08.876Z"
+    },
+    {
+      "id": "wdr_1791401327775_f1rp",
+      "idempotency_key": "conc_3_1791401327762",
+      "user_id": "test_concurrency",
+      "amount_cents": 6000,
+      "currency": "USD",
+      "payment_method": "TEST",
+      "account_details": "TEST",
+      "status": "PENDING",
+      "created_at": "2026-10-07T19:28:47.775Z"
+    },
+    {
+      "id": "wdr_1791401327781_rfxc",
+      "idempotency_key": "same_key",
+      "user_id": "test_idempotency",
+      "amount_cents": 3000,
+      "currency": "USD",
+      "payment_method": "TEST",
+      "account_details": "TEST",
+      "status": "PENDING",
+      "created_at": "2026-10-07T19:28:47.781Z"
+    },
+    {
+      "id": "wdr_1791401377981_snit",
+      "idempotency_key": "conc_1_1791401377978",
+      "user_id": "test_concurrency",
+      "amount_cents": 6000,
+      "currency": "USD",
+      "payment_method": "TEST",
+      "account_details": "TEST",
+      "status": "PENDING",
+      "created_at": "2026-10-07T19:29:37.980Z"
+    },
+    {
+      "id": "wdr_1791401389216_588t",
+      "idempotency_key": "conc_1_1791401389213",
+      "user_id": "test_concurrency",
+      "amount_cents": 6000,
+      "currency": "USD",
+      "payment_method": "TEST",
+      "account_details": "TEST",
+      "status": "PENDING",
+      "created_at": "2026-10-07T19:29:49.215Z"
+    },
+    {
+      "id": "wdr_1791401389233_61b1",
+      "idempotency_key": "same_key_1791401389232",
+      "user_id": "test_idempotency",
+      "amount_cents": 3000,
+      "currency": "USD",
+      "payment_method": "TEST",
+      "account_details": "TEST",
+      "status": "PENDING",
+      "created_at": "2026-10-07T19:29:49.233Z"
+    },
+    {
+      "id": "wdr_1791401489473_ozbw",
+      "idempotency_key": "wdr_test_1_1791401489470",
+      "user_id": "test_usr_wdr",
+      "amount_cents": 70000,
+      "currency": "USD",
+      "payment_method": "Bank Wire",
+      "account_details": "ACCT_123",
+      "status": "PENDING",
+      "created_at": "2026-10-07T19:31:29.472Z"
+    },
+    {
+      "id": "wdr_1791401538611_schj",
+      "idempotency_key": "wdr_test_1_1791401538608",
+      "user_id": "test_usr_wdr",
+      "amount_cents": 70000,
+      "currency": "USD",
+      "payment_method": "Bank Wire",
+      "account_details": "ACCT_123",
+      "status": "PENDING",
+      "created_at": "2026-10-07T19:32:18.610Z"
+    }
+  ],
+  "conversations": [],
+  "messages": [],
+  "reviews": [],
+  "notifications": [],
+  "support_tickets": [],
+  "admin_audit_logs": [],
+  "categories": [
+    {
+      "id": "cat-1",
+      "name": "Development & IT",
+      "slug": "development-it",
+      "description": "Full-stack web applications, mobile engineering, APIs, cloud infrastructure & databases.",
+      "icon": "Code",
+      "active": 1,
+      "created_at": "2026-10-07T19:16:04.600Z"
+    },
+    {
+      "id": "cat-2",
+      "name": "AI & Machine Learning",
+      "slug": "ai-machine-learning",
+      "description": "LLM fine-tuning, RAG pipelines, autonomous agents, computer vision, and predictive modeling.",
+      "icon": "Cpu",
+      "active": 1,
+      "created_at": "2026-10-07T19:16:04.603Z"
+    },
+    {
+      "id": "cat-3",
+      "name": "Design & Creative",
+      "slug": "design-creative",
+      "description": "UI/UX interface design, product architecture, branding systems, design systems, and motion graphics.",
+      "icon": "Palette",
+      "active": 1,
+      "created_at": "2026-10-07T19:16:04.603Z"
+    },
+    {
+      "id": "cat-4",
+      "name": "Writing & Translation",
+      "slug": "writing-translation",
+      "description": "Technical writing, API documentation, whitepapers, high-converting copywriting, and localization.",
+      "icon": "BookOpen",
+      "active": 1,
+      "created_at": "2026-10-07T19:16:04.603Z"
+    },
+    {
+      "id": "cat-5",
+      "name": "Sales & Marketing",
+      "slug": "sales-marketing",
+      "description": "Performance marketing, search engine optimization, growth strategy, funnel optimization.",
+      "icon": "TrendingUp",
+      "active": 1,
+      "created_at": "2026-10-07T19:16:04.603Z"
+    },
+    {
+      "id": "cat-6",
+      "name": "Video & Animation",
+      "slug": "video-animation",
+      "description": "Engaging video editing, 3D animations, motion design, YouTube production, and cinematic visual effects.",
+      "icon": "Video",
+      "active": 1,
+      "created_at": "2026-10-07T19:16:04.604Z"
+    },
+    {
+      "id": "cat-7",
+      "name": "Music & Audio",
+      "slug": "music-audio",
+      "description": "Pro voice actors, audio engineers, music producers, and sound designers to elevate your media.",
+      "icon": "Headphones",
+      "active": 1,
+      "created_at": "2026-10-07T19:16:04.604Z"
+    },
+    {
+      "id": "cat-8",
+      "name": "Business",
+      "slug": "business",
+      "description": "Business plans, pitch decks, market research, financial projections, and operational consulting.",
+      "icon": "Briefcase",
+      "active": 1,
+      "created_at": "2026-10-07T19:16:04.604Z"
+    },
+    {
+      "id": "cat-9",
+      "name": "Consulting",
+      "slug": "consulting",
+      "description": "Strategic advisory from seasoned domain experts in engineering, fundraising, legal compliance, and scaling.",
+      "icon": "Compass",
+      "active": 1,
+      "created_at": "2026-10-07T19:16:04.604Z"
+    },
+    {
+      "id": "cat-10",
+      "name": "Data",
+      "slug": "data",
+      "description": "Data analytics, dashboard visualization, data engineering, web scraping, and database architecture.",
+      "icon": "Database",
+      "active": 1,
+      "created_at": "2026-10-07T19:16:04.604Z"
+    },
+    {
+      "id": "cat-11",
+      "name": "Photography",
+      "slug": "photography",
+      "description": "E-commerce product imagery, high-end photo retouching, portraits, and lifestyle brand photography.",
+      "icon": "Camera",
+      "active": 1,
+      "created_at": "2026-10-07T19:16:04.604Z"
+    }
+  ],
+  "subcategories": [
+    {
+      "id": "sub-full-stack",
+      "category_id": "cat-1",
+      "name": "Full Stack Development",
+      "slug": "full-stack",
+      "job_count": 142,
+      "active": 1
+    },
+    {
+      "id": "sub-frontend-react",
+      "category_id": "cat-1",
+      "name": "React & Frontend",
+      "slug": "frontend-react",
+      "job_count": 98,
+      "active": 1
+    },
+    {
+      "id": "sub-devops-cloud",
+      "category_id": "cat-1",
+      "name": "Cloud & DevOps (GCP/AWS)",
+      "slug": "devops-cloud",
+      "job_count": 64,
+      "active": 1
+    },
+    {
+      "id": "sub-mobile-apps",
+      "category_id": "cat-1",
+      "name": "Mobile Apps (iOS/Android)",
+      "slug": "mobile-apps",
+      "job_count": 51,
+      "active": 1
+    },
+    {
+      "id": "sub-backend-nodejs",
+      "category_id": "cat-1",
+      "name": "Node.js & Backend Architecture",
+      "slug": "backend-nodejs",
+      "job_count": 76,
+      "active": 1
+    },
+    {
+      "id": "sub-llm-rag",
+      "category_id": "cat-2",
+      "name": "LLM Applications & RAG",
+      "slug": "llm-rag",
+      "job_count": 88,
+      "active": 1
+    },
+    {
+      "id": "sub-vision-nlp",
+      "category_id": "cat-2",
+      "name": "Computer Vision & NLP",
+      "slug": "vision-nlp",
+      "job_count": 42,
+      "active": 1
+    },
+    {
+      "id": "sub-ai-integration",
+      "category_id": "cat-2",
+      "name": "AI Model Integration",
+      "slug": "ai-integration",
+      "job_count": 67,
+      "active": 1
+    },
+    {
+      "id": "sub-data-science",
+      "category_id": "cat-2",
+      "name": "Data Science & Analytics",
+      "slug": "data-science",
+      "job_count": 53,
+      "active": 1
+    },
+    {
+      "id": "sub-ui-ux",
+      "category_id": "cat-3",
+      "name": "UI/UX & Product Design",
+      "slug": "ui-ux",
+      "job_count": 110,
+      "active": 1
+    },
+    {
+      "id": "sub-branding",
+      "category_id": "cat-3",
+      "name": "Brand Identity & Systems",
+      "slug": "branding",
+      "job_count": 49,
+      "active": 1
+    },
+    {
+      "id": "sub-web-mobile-design",
+      "category_id": "cat-3",
+      "name": "Web & Mobile Design",
+      "slug": "web-mobile-design",
+      "job_count": 73,
+      "active": 1
+    },
+    {
+      "id": "sub-design-systems",
+      "category_id": "cat-3",
+      "name": "Design Systems in Figma",
+      "slug": "design-systems",
+      "job_count": 38,
+      "active": 1
+    },
+    {
+      "id": "sub-technical-writing",
+      "category_id": "cat-4",
+      "name": "Technical & Developer Writing",
+      "slug": "technical-writing",
+      "job_count": 45,
+      "active": 1
+    },
+    {
+      "id": "sub-seo-content",
+      "category_id": "cat-4",
+      "name": "SEO Copywriting & Content",
+      "slug": "seo-content",
+      "job_count": 62,
+      "active": 1
+    },
+    {
+      "id": "sub-whitepapers",
+      "category_id": "cat-4",
+      "name": "Whitepapers & Research",
+      "slug": "whitepapers",
+      "job_count": 29,
+      "active": 1
+    },
+    {
+      "id": "sub-seo",
+      "category_id": "cat-5",
+      "name": "Search Engine Optimization",
+      "slug": "seo",
+      "job_count": 54,
+      "active": 1
+    },
+    {
+      "id": "sub-ppc-ads",
+      "category_id": "cat-5",
+      "name": "Paid Ads & PPC",
+      "slug": "ppc-ads",
+      "job_count": 38,
+      "active": 1
+    },
+    {
+      "id": "sub-growth-strategy",
+      "category_id": "cat-5",
+      "name": "Growth Engineering",
+      "slug": "growth-strategy",
+      "job_count": 31,
+      "active": 1
+    },
+    {
+      "id": "sub-video-editing",
+      "category_id": "cat-6",
+      "name": "Video Editing & Post-Production",
+      "slug": "video-editing",
+      "job_count": 84,
+      "active": 1
+    },
+    {
+      "id": "sub-animated-explainers",
+      "category_id": "cat-6",
+      "name": "2D & 3D Animated Explainers",
+      "slug": "animated-explainers",
+      "job_count": 52,
+      "active": 1
+    },
+    {
+      "id": "sub-motion-graphics",
+      "category_id": "cat-6",
+      "name": "Motion Graphics & Logo Animation",
+      "slug": "motion-graphics",
+      "job_count": 67,
+      "active": 1
+    },
+    {
+      "id": "sub-short-form-video",
+      "category_id": "cat-6",
+      "name": "Social Media & TikTok Reels",
+      "slug": "short-form-video",
+      "job_count": 114,
+      "active": 1
+    },
+    {
+      "id": "sub-3d-product-animation",
+      "category_id": "cat-6",
+      "name": "3D Product Animation & CGI",
+      "slug": "3d-product-animation",
+      "job_count": 39,
+      "active": 1
+    },
+    {
+      "id": "sub-voice-over",
+      "category_id": "cat-7",
+      "name": "Voice Over & Narration",
+      "slug": "voice-over",
+      "job_count": 78,
+      "active": 1
+    },
+    {
+      "id": "sub-mixing-mastering",
+      "category_id": "cat-7",
+      "name": "Mixing & Mastering",
+      "slug": "mixing-mastering",
+      "job_count": 46,
+      "active": 1
+    },
+    {
+      "id": "sub-music-production",
+      "category_id": "cat-7",
+      "name": "Music Production & Beatmaking",
+      "slug": "music-production",
+      "job_count": 63,
+      "active": 1
+    },
+    {
+      "id": "sub-podcast-editing",
+      "category_id": "cat-7",
+      "name": "Podcast Audio Editing",
+      "slug": "podcast-editing",
+      "job_count": 58,
+      "active": 1
+    },
+    {
+      "id": "sub-sound-design",
+      "category_id": "cat-7",
+      "name": "Sound Design & Foley",
+      "slug": "sound-design",
+      "job_count": 32,
+      "active": 1
+    },
+    {
+      "id": "sub-business-plans",
+      "category_id": "cat-8",
+      "name": "Business Plans & Pitch Decks",
+      "slug": "business-plans",
+      "job_count": 41,
+      "active": 1
+    },
+    {
+      "id": "sub-financial-modeling",
+      "category_id": "cat-8",
+      "name": "Financial Modeling & Forecasting",
+      "slug": "financial-modeling",
+      "job_count": 35,
+      "active": 1
+    },
+    {
+      "id": "sub-market-research",
+      "category_id": "cat-8",
+      "name": "Market Research & Competitive Analysis",
+      "slug": "market-research",
+      "job_count": 29,
+      "active": 1
+    },
+    {
+      "id": "sub-virtual-assistant",
+      "category_id": "cat-8",
+      "name": "Virtual Assistance & Operations",
+      "slug": "virtual-assistant",
+      "job_count": 92,
+      "active": 1
+    },
+    {
+      "id": "sub-crm-erp",
+      "category_id": "cat-8",
+      "name": "CRM & ERP Systems (HubSpot, Salesforce)",
+      "slug": "crm-erp",
+      "job_count": 38,
+      "active": 1
+    },
+    {
+      "id": "sub-tech-advisory",
+      "category_id": "cat-9",
+      "name": "Tech Architecture & CTO Advisory",
+      "slug": "tech-advisory",
+      "job_count": 47,
+      "active": 1
+    },
+    {
+      "id": "sub-startup-strategy",
+      "category_id": "cat-9",
+      "name": "Startup Fundraising & Strategy",
+      "slug": "startup-strategy",
+      "job_count": 36,
+      "active": 1
+    },
+    {
+      "id": "sub-legal-consulting",
+      "category_id": "cat-9",
+      "name": "Legal Consulting & IP",
+      "slug": "legal-consulting",
+      "job_count": 22,
+      "active": 1
+    },
+    {
+      "id": "sub-security-compliance",
+      "category_id": "cat-9",
+      "name": "Security, SOC2 & Compliance",
+      "slug": "security-compliance",
+      "job_count": 19,
+      "active": 1
+    },
+    {
+      "id": "sub-growth-mentorship",
+      "category_id": "cat-9",
+      "name": "Product Growth Mentorship",
+      "slug": "growth-mentorship",
+      "job_count": 31,
+      "active": 1
+    },
+    {
+      "id": "sub-data-visualization",
+      "category_id": "cat-10",
+      "name": "Data Visualization (Tableau, PowerBI)",
+      "slug": "data-visualization",
+      "job_count": 52,
+      "active": 1
+    },
+    {
+      "id": "sub-data-pipelines",
+      "category_id": "cat-10",
+      "name": "Data Engineering & Pipelines",
+      "slug": "data-pipelines",
+      "job_count": 44,
+      "active": 1
+    },
+    {
+      "id": "sub-web-scraping",
+      "category_id": "cat-10",
+      "name": "Web Scraping & Extraction",
+      "slug": "web-scraping",
+      "job_count": 68,
+      "active": 1
+    },
+    {
+      "id": "sub-excel-modeling",
+      "category_id": "cat-10",
+      "name": "Excel & Advanced Spreadsheets",
+      "slug": "excel-modeling",
+      "job_count": 89,
+      "active": 1
+    },
+    {
+      "id": "sub-product-photo",
+      "category_id": "cat-11",
+      "name": "Product Photography for E-Commerce",
+      "slug": "product-photo",
+      "job_count": 42,
+      "active": 1
+    },
+    {
+      "id": "sub-photo-retouching",
+      "category_id": "cat-11",
+      "name": "Photo Retouching & Photoshop Editing",
+      "slug": "photo-retouching",
+      "job_count": 75,
+      "active": 1
+    },
+    {
+      "id": "sub-portraits",
+      "category_id": "cat-11",
+      "name": "Portraits & Lifestyle Shots",
+      "slug": "portraits",
+      "job_count": 31,
+      "active": 1
+    }
+  ],
+  "legal_documents": [],
+  "marketplace_settings": [
+    {
+      "key": "settings",
+      "value": "{\"siteName\":\"WorkSphere Marketplace\",\"supportEmail\":\"support@worksphere.com\",\"maintenanceMode\":false,\"clientFeePercent\":3.5,\"freelancerFeePercent\":10,\"escrowHoldDays\":14,\"minWithdrawalAmount\":20,\"maxWithdrawalAmount\":50000,\"autoApproveKyc\":false,\"paymentGateways\":[{\"name\":\"Stripe\",\"enabled\":true},{\"name\":\"PayPal\",\"enabled\":true},{\"name\":\"Razorpay\",\"enabled\":true},{\"name\":\"Bank Wire\",\"enabled\":true}]}"
+    }
+  ],
+  "webhook_event_logs": [
+    {
+      "id": "wh_1791400589972",
+      "provider": "RAZORPAY",
+      "event_id": "wh_test_evt_1791400589970",
+      "event_type": "payment.captured",
+      "payload": "{\"test\":true}",
+      "status": "PROCESSED",
+      "processed_at": "2026-10-07T19:16:29.972Z"
+    },
+    {
+      "id": "wh_1791400748879",
+      "provider": "RAZORPAY",
+      "event_id": "wh_test_evt_1791400748877",
+      "event_type": "payment.captured",
+      "payload": "{\"test\":true}",
+      "status": "PROCESSED",
+      "processed_at": "2026-10-07T19:19:08.879Z"
+    },
+    {
+      "id": "wh_1791400785505",
+      "provider": "RAZORPAY",
+      "event_id": "wh_test_evt_1791400785501",
+      "event_type": "payment.captured",
+      "payload": "{\"test\":true}",
+      "status": "PROCESSED",
+      "processed_at": "2026-10-07T19:19:45.505Z"
+    },
+    {
+      "id": "wh_1791401489488",
+      "provider": "RAZORPAY",
+      "event_id": "wh_test_evt_1791401489486",
+      "event_type": "payment.captured",
+      "payload": "{\"test\":true}",
+      "status": "PROCESSED",
+      "processed_at": "2026-10-07T19:31:29.488Z"
+    },
+    {
+      "id": "wh_1791401538628",
+      "provider": "RAZORPAY",
+      "event_id": "wh_test_evt_1791401538626",
+      "event_type": "payment.captured",
+      "payload": "{\"test\":true}",
+      "status": "PROCESSED",
+      "processed_at": "2026-10-07T19:32:18.628Z"
+    }
+  ],
+  "background_jobs": []
+}

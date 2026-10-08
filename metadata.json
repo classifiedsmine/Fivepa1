@@ -1,0 +1,8 @@
+{
+  "name": "WorkSphere - Global Freelance Marketplace",
+  "description": "A global freelance marketplace for buying, selling digital services, escrow milestones, and contracts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
